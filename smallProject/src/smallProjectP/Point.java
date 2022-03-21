@@ -9,6 +9,10 @@ public Point(int X,int Y) {
 	y=Y;
 }
 	
+public static void main(String[] args){
+	System.out.print("Hello");
+}
+	
 	
 }
 
