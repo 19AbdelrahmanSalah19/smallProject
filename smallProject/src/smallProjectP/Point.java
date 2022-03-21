@@ -8,5 +8,7 @@ public Point(int X,int Y) {
 	x=X;
 	y=Y;
 }
+	
+	
 }
 
